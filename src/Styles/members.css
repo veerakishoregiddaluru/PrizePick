@@ -1,0 +1,28 @@
+.members {
+  display: flex;
+
+  margin: 5px;
+  background-color: aqua;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.membermain {
+  margin: 2px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+  padding: 5px 15px;
+  margin: 5px;
+  background-color: yellow;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+
+  height: 100px;
+}
+
+h1 {
+  padding-bottom: 15px;
+}
